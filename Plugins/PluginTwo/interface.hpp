@@ -1,7 +1,7 @@
 #ifndef CONCRETEPLUGIN_HPP
 #define CONCRETEPLUGIN_HPP
 
-#include "pluginone.hpp"
+#include "plugintwo.hpp"
 
 class __project_export Interface : public Plugin
 {

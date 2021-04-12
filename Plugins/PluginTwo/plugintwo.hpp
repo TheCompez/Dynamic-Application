@@ -4,10 +4,10 @@
 #include "plugin.hpp"
 #include <string>
 
-// This class is exported from the PluginOne.dll
-class __project_export PluginOne {
+// This class is exported from the PluginTwo.dll
+class __project_export PluginTwo {
 public:
-  PluginOne();
+  PluginTwo();
   // TODO: add your methods here.
 };
 
